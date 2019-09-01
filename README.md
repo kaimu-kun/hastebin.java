@@ -1,6 +1,9 @@
 # hastebin.java
 A simple Hastebin API wrapper for Java. 
 
+# Download:
+Latest Stable Version: [GitHub Release](https://github.com/kaimu-kun/hastebin.java/releases/latest)
+
 # Example:
 
 ```java 
